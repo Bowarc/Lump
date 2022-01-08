@@ -1,5 +1,6 @@
 Lump.log
 ideas.txt
+.gitignore
 /appfiles/.ui
 /appfiles/__pycache__
 /appfiles/uis/__pycache__
