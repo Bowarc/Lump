@@ -1,0 +1,14 @@
+[14:53:41] [plugin:19] [Thread:(MainThread)] DEBUG: Searching for plugins...
+[14:53:41] [plugin:27] [Thread:(MainThread)] DEBUG: Found: 2 modules
+                                                      Loading. .
+[14:53:41] [plugin:30] [Thread:(MainThread)] INFO: Loading testPlugin.py
+[14:53:41] [plugin:33] [Thread:(MainThread)] INFO: Successfully loaded plugin: testPlugin
+[14:53:41] [defaultPlugin:5] [Thread:(MainThread)] DEBUG: Default plugin init
+[14:53:41] [testPlugin:8] [Thread:(MainThread)] DEBUG: Working
+[14:53:41] [plugin:30] [Thread:(MainThread)] INFO: Loading plugin2.py
+[14:53:41] [plugin:33] [Thread:(MainThread)] INFO: Successfully loaded plugin: plugin2
+[14:53:41] [defaultPlugin:5] [Thread:(MainThread)] DEBUG: Default plugin init
+[14:53:41] [plugin:64] [Thread:(MainThread)] DEBUG: Pinging plugins to see if they are corectly loaded.
+[14:53:41] [plugin:67] [Thread:(MainThread)] DEBUG: <testPlugin.plugin object at 0x00000210EBF70280>: I'm up
+[14:53:41] [plugin:67] [Thread:(MainThread)] DEBUG: <plugin2.plugin object at 0x00000210EBF71060>: I'm up
+[14:53:41] [app:11] [Thread:(MainThread)] DEBUG: Start running. . .
