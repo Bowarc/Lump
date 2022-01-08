@@ -6,3 +6,6 @@ class plugin(defaultPlugin.plugin):
         super().__init__(logger)
 
         self.logger.debug("Working")
+
+    def ping(self):
+        return "im up (but from the child plugin)"

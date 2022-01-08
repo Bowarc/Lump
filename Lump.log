@@ -1,14 +1,28 @@
-[14:53:41] [plugin:19] [Thread:(MainThread)] DEBUG: Searching for plugins...
-[14:53:41] [plugin:27] [Thread:(MainThread)] DEBUG: Found: 2 modules
+[16:12:41] [plugin:19] [Thread:(MainThread)] DEBUG: Searching for plugins...
+[16:12:41] [plugin:30] [Thread:(MainThread)] DEBUG: Found: 1 module
                                                       Loading. .
-[14:53:41] [plugin:30] [Thread:(MainThread)] INFO: Loading testPlugin.py
-[14:53:41] [plugin:33] [Thread:(MainThread)] INFO: Successfully loaded plugin: testPlugin
-[14:53:41] [defaultPlugin:5] [Thread:(MainThread)] DEBUG: Default plugin init
-[14:53:41] [testPlugin:8] [Thread:(MainThread)] DEBUG: Working
-[14:53:41] [plugin:30] [Thread:(MainThread)] INFO: Loading plugin2.py
-[14:53:41] [plugin:33] [Thread:(MainThread)] INFO: Successfully loaded plugin: plugin2
-[14:53:41] [defaultPlugin:5] [Thread:(MainThread)] DEBUG: Default plugin init
-[14:53:41] [plugin:64] [Thread:(MainThread)] DEBUG: Pinging plugins to see if they are corectly loaded.
-[14:53:41] [plugin:67] [Thread:(MainThread)] DEBUG: <testPlugin.plugin object at 0x00000210EBF70280>: I'm up
-[14:53:41] [plugin:67] [Thread:(MainThread)] DEBUG: <plugin2.plugin object at 0x00000210EBF71060>: I'm up
-[14:53:41] [app:11] [Thread:(MainThread)] DEBUG: Start running. . .
+[16:12:41] [plugin:35] [Thread:(MainThread)] INFO: Loading testPlugin.py
+[16:12:41] [plugin:38] [Thread:(MainThread)] INFO: Successfully loaded plugin: testPlugin
+[16:12:41] [defaultPlugin:12] [Thread:(MainThread)] DEBUG: Default plugin init
+[16:12:41] [testPlugin:8] [Thread:(MainThread)] DEBUG: Working
+[16:12:41] [plugin:69] [Thread:(MainThread)] DEBUG: Pinging plugins to see if they are corectly loaded.
+[16:12:41] [plugin:72] [Thread:(MainThread)] DEBUG: <testPlugin.plugin object at 0x000002C2D43B7280>: im up (but from the child plugin)
+[16:12:41] [app:17] [Thread:(MainThread)] DEBUG: Start running. . .
+[16:12:43] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:43] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:43] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:44] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:44] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:44] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:44] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:44] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:45] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:45] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:45] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:45] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:46] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:48] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:48] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:50] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:50] [defaultPlugin:20] [Thread:(MainThread)] DEBUG: Hi! 
+[16:12:55] [app:22] [Thread:(MainThread)] DEBUG: Stopping. . .
